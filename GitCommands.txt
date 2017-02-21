@@ -1,0 +1,4 @@
+git add --all
+git config --global user.email "yohabrii@gmail.com"
+git commit -m "Any Message"
+git push origin master
